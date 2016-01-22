@@ -1,0 +1,19 @@
+{
+  "name": "travis-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/indexes5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsautron/travis-test.git"
+  },
+  "author": "Bruno Sautron <sautron.brunojj@gmail.com> (http://whoisbruno.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsautron/travis-test/issues"
+  },
+  "homepage": "https://github.com/bsautron/travis-test#readme"
+}
