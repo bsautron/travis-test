@@ -1,5 +1,5 @@
-class Docs {
-	constructor(max) {
+export default class Docs {
+	constructor(max = 10) {
 		this.max = max;
 		this.users = [];
 	}
@@ -12,3 +12,5 @@ class Docs {
 		console.log('No please');
 	}
 };
+
+let dd = new Docs();
