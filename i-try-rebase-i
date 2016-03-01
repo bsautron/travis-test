@@ -1,4 +1,6 @@
 #!/bin/sh
 
 echo "hey"
-echo "Yes I work Fine"
+
+
+echo "Okay im good!"
